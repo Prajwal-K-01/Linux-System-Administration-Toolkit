@@ -1,0 +1,12 @@
+
+Logs/*.log
+Backups/*.tar
+Backups/*.tar.gz
+Backups/*.tgz
+Reports/*.html
+Reports/*.txt
+*.tmp
+*.swp
+.nano/
+.idea/
+.DS_Store
